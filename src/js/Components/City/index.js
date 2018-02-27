@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import City from './City';
+import City from './city';
 
 // This function takes the store and returns an object
 // that's passed to the props of the component.

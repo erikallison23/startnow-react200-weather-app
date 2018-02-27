@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import History from './History';
+import History from './history';
 
 // This function takes the store and returns an object
 // that's passed to the props of the component.
